@@ -1,0 +1,45 @@
+.App {
+  
+  background-color: #282c34;
+  min-height: 100vh;
+  align-items: center;
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+.main-screen {
+  /* height: 100vh; */
+  /* background-color: white;
+  color: black; */
+}
+
+table {
+  border: 2px solid white;
+  width: 800px;
+  height: 200px;
+}
+  
+th {
+  border-bottom: 1px solid black;
+}
+  
+td {
+  text-align: center;
+}
